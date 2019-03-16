@@ -1,0 +1,16 @@
+{
+  "name": "multerapi",
+  "version": "1.0.0",
+  "description": "File uploading api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
